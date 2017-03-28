@@ -1,0 +1,27 @@
+.text_center, .center_align {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+.text_left, .left_align {
+    text-align: left !important;
+    vertical-align: middle !important;
+}
+
+.text_right, .right_align {
+    text-align: right !important;
+    vertical-align: middle !important;
+}
+
+.text_justify, .justify_align {
+    text-align: justify !important;
+    vertical-align: middle !important;
+}
+
+.float_right {
+    float: right !important;
+}
+
+.float_left {
+    float: left !important;
+}
